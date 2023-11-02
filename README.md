@@ -17,16 +17,13 @@ A simple JavaScript game that is a variation of the classic "Rock Paper Scissors
 5. Enjoy and play again!
 
 ## Technologies Used
+
 - Html
 - JavaScript
-- 
+   
 ## Contribution
 
 Contributions are welcome! If you want to improve the game or add new features, please feel free to fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
